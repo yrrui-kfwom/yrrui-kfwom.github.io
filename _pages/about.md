@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: E-mail: ruiyu6@illinois.edu
+subtitle: "E-mail: ruiyu6@illinois.edu"
 
 profile:
   align: right
