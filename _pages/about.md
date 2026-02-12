@@ -25,10 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm currently a PhD student in the Department of Mathematics, UIUC. My area of interest is Probability.
-<!--
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a Ph.D. student in the Department of Mathematics at the University of Illinois Urbana-Champaign (UIUC). My research interests lie in Probability.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-<a href='#'>Affiliations</a>
--->
+I received my B.S. from the University of Science and Technology of China (USTC) in 2023 and my M.S. in Mathematics in 2025, under the supervision of Prof. Wen Sun.
