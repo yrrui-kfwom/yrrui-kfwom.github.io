@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Ph.D. student in the Department of Mathematics at the University of Illinois Urbana-Champaign (UIUC). My research interests lie in Probability.
+I am a first-year Ph.D. student in the Department of Mathematics at the University of Illinois Urbana-Champaign (UIUC). I am currently exploring topics in Probability, with a particular interest in Random Graphs, Large Deviations and Statistical Physics.
 
 I received my B.S. from the University of Science and Technology of China (USTC) in 2023 and my M.S. in Mathematics in 2025, under the supervision of Prof. Wen Sun.
